@@ -1,0 +1,4 @@
+{
+  "integrationFolder": "./cypress/integration",
+  "baseUrl": "https://vue3-realworld-example-app-mutoe.vercel.app"
+}
