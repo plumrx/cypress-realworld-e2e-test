@@ -72,6 +72,22 @@ describe("sign in", () => {
       cy.url().should("equal", Cypress.config().baseUrl + "/#/login");
     });
 
-    it("sign in at read more favorite follow");
+    it("sign in at read more favorite follow[0]", () => {
+      cy.get(".article-preview").eq(0).contains("Read more...").click();
+      cy.url().should("contain", "/#/article/");
+
+      cy.get(".author").eq(0).click();
+      cy.get(".action-btn").should("contain", "Follow").click();
+      cy.url().should("equal", Cypress.config().baseUrl + "/#/login");
+    });
+
+    it("sign in at read more favorite follow[1]", () => {
+      cy.get(".article-preview").eq(0).contains("Read more...").click();
+      cy.url().should("contain", "/#/article/");
+
+      cy.get(".author").eq(1).click();
+      cy.get(".action-btn").should("contain", "Follow").click();
+      cy.url().should("equal", Cypress.config().baseUrl + "/#/login");
+    });
   });
 });
