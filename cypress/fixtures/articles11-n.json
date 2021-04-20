@@ -1,0 +1,175 @@
+{
+    "articles": [
+        {
+            "title": "test",
+            "slug": "test-1uwsi7",
+            "body": "test",
+            "createdAt": "2021-04-20T15:25:15.348Z",
+            "updatedAt": "2021-04-20T15:25:15.348Z",
+            "tagList": [],
+            "description": "test",
+            "author": {
+                "username": "example9856",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "test",
+            "slug": "test-5olhc4",
+            "body": "test",
+            "createdAt": "2021-04-20T15:24:58.942Z",
+            "updatedAt": "2021-04-20T15:24:58.942Z",
+            "tagList": [],
+            "description": "test",
+            "author": {
+                "username": "example9856",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "test",
+            "slug": "test-jg3nil",
+            "body": "test",
+            "createdAt": "2021-04-20T15:24:53.986Z",
+            "updatedAt": "2021-04-20T15:24:53.986Z",
+            "tagList": [],
+            "description": "test",
+            "author": {
+                "username": "example9856",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "test",
+            "slug": "test-9zaau5",
+            "body": "test",
+            "createdAt": "2021-04-20T15:24:43.940Z",
+            "updatedAt": "2021-04-20T15:24:43.940Z",
+            "tagList": [],
+            "description": "test",
+            "author": {
+                "username": "example9856",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "test",
+            "slug": "test-fgw62b",
+            "body": "test",
+            "createdAt": "2021-04-20T15:24:00.982Z",
+            "updatedAt": "2021-04-20T15:24:00.982Z",
+            "tagList": [],
+            "description": "test",
+            "author": {
+                "username": "example9856",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        },
+        {
+            "title": "Second article",
+            "slug": "second-article-a6cx3u",
+            "body": "# Second article {enter} ## This is second time {enter} I would like to thank you for this article.",
+            "createdAt": "2021-04-20T15:23:41.052Z",
+            "updatedAt": "2021-04-20T15:23:41.052Z",
+            "tagList": [],
+            "description": "It's about second article",
+            "author": {
+                "username": "Jo_Lehner",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "Second article",
+            "slug": "second-article-zqgywu",
+            "body": "# Second article {enter} ## This is second time {enter} I would like to thank you for this article.",
+            "createdAt": "2021-04-20T15:22:55.830Z",
+            "updatedAt": "2021-04-20T15:22:55.830Z",
+            "tagList": [],
+            "description": "It's about second article",
+            "author": {
+                "username": "Celia4",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        },
+        {
+            "title": "test",
+            "slug": "test-nk7hqt",
+            "body": "test",
+            "createdAt": "2021-04-20T15:12:59.804Z",
+            "updatedAt": "2021-04-20T15:12:59.804Z",
+            "tagList": [],
+            "description": "test",
+            "author": {
+                "username": "drahem",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        },
+        {
+            "title": "Test",
+            "slug": "test-uf5lhz",
+            "body": "article body",
+            "createdAt": "2021-04-20T15:11:33.930Z",
+            "updatedAt": "2021-04-20T15:11:33.930Z",
+            "tagList": [],
+            "description": "subject of the article",
+            "author": {
+                "username": "drahem",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        },
+        {
+            "title": "test",
+            "slug": "test-w4tr03",
+            "body": "test",
+            "createdAt": "2021-04-20T15:10:17.621Z",
+            "updatedAt": "2021-04-20T15:10:17.621Z",
+            "tagList": [],
+            "description": "test",
+            "author": {
+                "username": "example9856",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        }
+    ],
+    "articlesCount": 500
+}
