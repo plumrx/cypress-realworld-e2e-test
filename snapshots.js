@@ -8,7 +8,7 @@ module.exports = {
       }
     }
   },
-  "__version": "7.1.0",
+  "__version": "12.7.0",
   "sign in": {
     "sign in at homepage": {
       "sign in pass": {
